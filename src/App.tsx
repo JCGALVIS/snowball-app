@@ -1,7 +1,10 @@
 import "./App.css";
+import { Categories } from "./pages/categories/categories";
 
 function App() {
-  return <div className="App">Hola</div>;
+  return (
+    <Categories/>
+  )
 }
 
 export default App;
