@@ -4,7 +4,7 @@ import { useIntl } from "react-intl";
 
 export const Categories = () => {
   const { formatMessage } = useIntl();
-  const { categorie, error, onChange, onSubmitSave } = useCategories();
+  const { category, error, onChange, onSubmitSave } = useCategories();
 
   return (
     <Card>
@@ -18,12 +18,14 @@ export const Categories = () => {
             name="categorie"
             placeholder="app.category-label"
             type="text"
-            value={categorie}
-            onChange={({ target }) => onChange(target.value, "categorie")}
+            value={category}
+            onChange={({ target }) => onChange(target.value, "category")}
           />
 
           <Button position="br" value="app.button-save" />
-          {error.hasError && <div>{formatMessage({ id: error.message })}</div>}
+          {error.hasError && (
+            <div>{formatMessage({ id: error.message }, { category })}</div>
+          )}
         </form>
       </Card.Body>
     </Card>
