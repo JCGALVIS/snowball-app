@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snowball-app/static/css/main.030771f0.css",
+    "main.js": "/snowball-app/static/js/main.95bb8ac9.js",
+    "index.html": "/snowball-app/index.html",
+    "main.030771f0.css.map": "/snowball-app/static/css/main.030771f0.css.map",
+    "main.95bb8ac9.js.map": "/snowball-app/static/js/main.95bb8ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030771f0.css",
+    "static/js/main.95bb8ac9.js"
+  ]
+}
