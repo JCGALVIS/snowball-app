@@ -8,5 +8,7 @@ export default {
     "app.categories-error-empty": "Write category",
     "app.categories-error-exist": "The {category} category already exists.",
     "app.categories-error-save": "It was not possible to save the category.",
+    "app.button-login-gmail": "Sign in with google",
+    "app.login-title": "Login",
   },
 };

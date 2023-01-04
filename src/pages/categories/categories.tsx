@@ -2,7 +2,7 @@ import { Card, Button, Input, Title } from "../../components";
 import { useCategories } from "./useCategories";
 import { useIntl } from "react-intl";
 
-export const Categories = () => {
+const Categories = () => {
   const { formatMessage } = useIntl();
   const { category, error, onChange, onSubmitSave } = useCategories();
 
@@ -31,3 +31,5 @@ export const Categories = () => {
     </Card>
   );
 };
+
+export default Categories;
