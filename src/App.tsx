@@ -1,10 +1,11 @@
-import "./App.css";
-import { Categories } from "./pages/categories/categories";
+import { Navigation } from "./routes/Navigation";
 
 function App() {
   return (
-    <Categories/>
-  )
+    <>
+      <Navigation />
+    </>
+  );
 }
 
 export default App;

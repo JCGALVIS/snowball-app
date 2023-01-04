@@ -1,0 +1,29 @@
+.gmailButtonContainer {
+  align-items: center;
+  background-color: #4285f4;
+  border-radius: 14px;
+  display: flex;
+  flex-wrap: nowrap;
+  height: 28px;
+  padding: 2px;
+  width: 100%;
+}
+
+.gmailButtonContainer .gmailLogoContent {
+  align-items: center;
+  background-color: #fff;
+  border-radius: 12px 0 0 12px;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  width: 26px;
+}
+
+.gmailButtonContainer .label {
+  flex: 1;
+  justify-content: center;
+  display: flex;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 400;
+}

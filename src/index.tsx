@@ -2,6 +2,8 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import { I18nProvider } from "./i18n";
 
+import './index.css'
+
 const language = navigator.language.split(/[-_]/)[0];
 
 const root = ReactDOM.createRoot(
