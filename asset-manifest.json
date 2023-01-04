@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/snowball-app/static/css/main.079f33b8.css",
-    "main.js": "/snowball-app/static/js/main.e8a4b1ae.js",
+    "main.js": "/snowball-app/static/js/main.5c89c201.js",
     "Login.css": "/snowball-app/static/css/Login.e83bf648.chunk.css",
-    "Login.js": "/snowball-app/static/js/Login.e1a947ef.chunk.js",
+    "Login.js": "/snowball-app/static/js/Login.17de6b93.chunk.js",
     "Categories.css": "/snowball-app/static/css/Categories.11dcb998.chunk.css",
-    "Categories.js": "/snowball-app/static/js/Categories.9944a098.chunk.js",
-    "static/js/44.192b2016.chunk.js": "/snowball-app/static/js/44.192b2016.chunk.js",
+    "Categories.js": "/snowball-app/static/js/Categories.36a8ca13.chunk.js",
+    "static/js/740.f6994e90.chunk.js": "/snowball-app/static/js/740.f6994e90.chunk.js",
     "static/media/gmail-logo.svg": "/snowball-app/static/media/gmail-logo.f0b66623aeedc2adb0e69cb9748e0616.svg",
     "index.html": "/snowball-app/index.html",
     "main.079f33b8.css.map": "/snowball-app/static/css/main.079f33b8.css.map",
-    "main.e8a4b1ae.js.map": "/snowball-app/static/js/main.e8a4b1ae.js.map",
+    "main.5c89c201.js.map": "/snowball-app/static/js/main.5c89c201.js.map",
     "Login.e83bf648.chunk.css.map": "/snowball-app/static/css/Login.e83bf648.chunk.css.map",
-    "Login.e1a947ef.chunk.js.map": "/snowball-app/static/js/Login.e1a947ef.chunk.js.map",
+    "Login.17de6b93.chunk.js.map": "/snowball-app/static/js/Login.17de6b93.chunk.js.map",
     "Categories.11dcb998.chunk.css.map": "/snowball-app/static/css/Categories.11dcb998.chunk.css.map",
-    "Categories.9944a098.chunk.js.map": "/snowball-app/static/js/Categories.9944a098.chunk.js.map",
-    "44.192b2016.chunk.js.map": "/snowball-app/static/js/44.192b2016.chunk.js.map"
+    "Categories.36a8ca13.chunk.js.map": "/snowball-app/static/js/Categories.36a8ca13.chunk.js.map",
+    "740.f6994e90.chunk.js.map": "/snowball-app/static/js/740.f6994e90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.079f33b8.css",
-    "static/js/main.e8a4b1ae.js"
+    "static/js/main.5c89c201.js"
   ]
 }
